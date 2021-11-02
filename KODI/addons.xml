@@ -59,9 +59,9 @@
 			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
 		</dir>
-		<info compressed="false">https://raw.githubusercontent.com/lucicpavo/PavooTV-Kodi19/main/KODI/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/lucicpavo/PavooTV-Kodi19/main/KODI/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/lucicpavo/PavooTV-Kodi19/main/KODI/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/lucicpavo/PavooTV-Kodi19/master/KODI/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/lucicpavo/PavooTV-Kodi19/master/KODI/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/lucicpavo/PavooTV-Kodi19/master/KODI/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Pavootv Repo</summary>
