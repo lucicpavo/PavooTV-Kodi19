@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.PavooTVRepo" name="[COLOR blue]PavooTV[/COLOR] repo" version="1.0.5" provider-name="Pavoo">
+	<extension point="xbmc.addon.repository" name="PavootvRepo">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/lucicpavo/PavooTV-Kodi19/master/KODI/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/lucicpavo/PavooTV-Kodi19/master/KODI/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/lucicpavo/PavooTV-Kodi19/master/KODI/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Pavootv Repo</summary>
+		<description lang="en">Pavoo Test</description>
+		<genre>all</genre>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+        </assets>
+		<news>		
+Uživajte
+
+http://pavootv.com
+</news>
+	</extension>
+</addon>
